@@ -1,0 +1,4 @@
+[workspace]
+name = "rust-practice"
+members = [ "calculate-cli", "deps-example","first-parogram", "integ-test-example", "my-first-lib", "test-example"]
+resolver = "2"
